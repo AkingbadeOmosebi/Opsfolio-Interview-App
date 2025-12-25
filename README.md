@@ -1,5 +1,10 @@
-# Project "Opsfolio" - The Evolved Interview App.
+> **Author:** Akingbade Omosebi  
+> **IMPORTANT NOTE:** This project was built entirely by me. All architectural decisions, 
+> infrastructure implementation, debugging, and production deployment are my own work. 
+> Any Git commits attributed to other usernames were configuration errors during development.
 
+
+# Project "Opsfolio" - The Evolved Interview App.
   - Opsfolio: From Interview Task → DevSecOps Mastery.
   - This repository demonstrates how a simple technical interview assessment app became **a professional-ready, security-hardened DevSecOps portfolio project.**
 

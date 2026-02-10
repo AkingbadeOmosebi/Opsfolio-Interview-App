@@ -5,7 +5,7 @@
 # Instead I focused on production polish: non-root Nginx, metadata, health checks,
 # and keeping the image as small and secure as possible.
 
-FROM nginx:1.29.3-alpine
+FROM nginx:1.29.5-alpine
 
 # Security best practice: upgrade OS packages (requires root)
 USER root
